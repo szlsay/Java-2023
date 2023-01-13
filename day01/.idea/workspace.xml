@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b74f20c9-b621-4c38-815e-27085cb405f5" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/array/Demo1ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/array/Demo2ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/array/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/array/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/array/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/array/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/array/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/array/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/array/TestObjectArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/controller/TeacherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/dao/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/domain/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/entry/InfoManagerEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/service/TeacherService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +45,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="应用程序.Test5">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.array.Test1" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\Java-2023\day01\src\cn\edu\manager\service" />
+      <recent name="E:\Github\Java-2023\day01\src\cn\edu\manager\entry" />
+      <recent name="E:\Github\Java-2023\day01\src\cn\edu\manager\domain" />
+      <recent name="E:\Github\Java-2023\day01\src\cn\edu\manager\dao" />
+      <recent name="E:\Github\Java-2023\day01\src\cn\edu\manager\controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.StudentController">
+    <configuration name="StudentController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.manager.controller.StudentController" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.array.*" />
+          <option name="PATTERN" value="cn.edu.manager.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.StudentController" />
         <item itemvalue="应用程序.Test5" />
         <item itemvalue="应用程序.Test4" />
         <item itemvalue="应用程序.Test3" />
         <item itemvalue="应用程序.Test2" />
-        <item itemvalue="应用程序.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +140,7 @@
       <updated>1673505218319</updated>
       <workItem from="1673505221774" duration="4182000" />
       <workItem from="1673509463815" duration="1657000" />
+      <workItem from="1673511149243" duration="5126000" />
     </task>
     <servers />
   </component>
