@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b74f20c9-b621-4c38-815e-27085cb405f5" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cn/genericity/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/genericity/GenericityClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/genericity/GenericityInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/genericity/GenericityMethod1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/genericity/GenericityMethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/genericity/GenericitySummarize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/genericity/MyGenericityClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/array/Demo1ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/array/Demo1ArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +53,13 @@
       <recent name="E:\Github\Java-2023\day01\src\cn\edu\manager\controller" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.MyCollectonDemo8">
-    <configuration name="MyCollectonDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.collection.MyCollectonDemo4" />
+  <component name="RunManager" selected="应用程序.GenericitySummarize">
+    <configuration name="GenericityInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.genericity.GenericityInterface" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.collection.*" />
+          <option name="PATTERN" value="cn.genericity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCollectonDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.collection.MyCollectonDemo5" />
+    <configuration name="GenericityMethod1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.genericity.GenericityMethod1" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.collection.*" />
+          <option name="PATTERN" value="cn.genericity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCollectonDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.collection.MyCollectonDemo6" />
+    <configuration name="GenericityMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.genericity.GenericityMethod2" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.collection.*" />
+          <option name="PATTERN" value="cn.genericity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCollectonDemo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.collection.MyCollectonDemo7" />
+    <configuration name="GenericitySummarize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.genericity.GenericitySummarize" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.collection.*" />
+          <option name="PATTERN" value="cn.genericity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCollectonDemo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.collection.MyCollectonDemo8" />
+    <configuration name="MyGenericityClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.genericity.MyGenericityClass" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.collection.*" />
+          <option name="PATTERN" value="cn.genericity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.MyCollectonDemo8" />
-        <item itemvalue="应用程序.MyCollectonDemo7" />
-        <item itemvalue="应用程序.MyCollectonDemo6" />
-        <item itemvalue="应用程序.MyCollectonDemo5" />
-        <item itemvalue="应用程序.MyCollectonDemo4" />
+        <item itemvalue="应用程序.GenericitySummarize" />
+        <item itemvalue="应用程序.GenericityMethod2" />
+        <item itemvalue="应用程序.GenericityMethod1" />
+        <item itemvalue="应用程序.GenericityInterface" />
+        <item itemvalue="应用程序.MyGenericityClass" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +139,7 @@
       <updated>1673505218319</updated>
       <workItem from="1673505221774" duration="4182000" />
       <workItem from="1673509463815" duration="1657000" />
-      <workItem from="1673511149243" duration="20252000" />
+      <workItem from="1673511149243" duration="21263000" />
     </task>
     <servers />
   </component>
