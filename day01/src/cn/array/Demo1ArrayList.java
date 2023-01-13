@@ -1,6 +1,7 @@
 package cn.array;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Demo1ArrayList {
     /*
@@ -21,6 +22,10 @@ public class Demo1ArrayList {
     public static void main(String[] args) {
         // 1. 创建集合容器对象
         ArrayList<String> list = new ArrayList<>();
+        List<Integer> t1 = new ArrayList<>();
+
+        List<String> l1 = new ArrayList<>();
+
         // 2. 调用对象的add方法, 向容器中添加数据
         list.add("111");
         list.add("222");
