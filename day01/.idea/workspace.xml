@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b74f20c9-b621-4c38-815e-27085cb405f5" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/controller/TeacherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/dao/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/domain/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/entry/InfoManagerEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/manager/service/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lambda/Test01Swimming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lambda/Test02Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lambda/Test03StringHandlerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lambda/Test04RandomNumHandlerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lambda/Test05CalculatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lambda/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lambda/Test6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -44,6 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/代码/test-polymorpic" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -54,13 +53,13 @@
       <recent name="E:\Github\Java-2023\day01\src\cn\edu\manager\controller" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.StudentController">
-    <configuration name="StudentController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.edu.manager.controller.StudentController" />
+  <component name="RunManager" selected="应用程序.Test07">
+    <configuration name="Test03StringHandlerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lambda.Test03StringHandlerDemo" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.edu.manager.controller.*" />
+          <option name="PATTERN" value="cn.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.array.Test2" />
+    <configuration name="Test04RandomNumHandlerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lambda.Test04RandomNumHandlerDemo" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.array.*" />
+          <option name="PATTERN" value="cn.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.array.Test3" />
+    <configuration name="Test05CalculatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lambda.Test05CalculatorDemo" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.array.*" />
+          <option name="PATTERN" value="cn.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.array.Test4" />
+    <configuration name="Test07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lambda.Test07" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.array.*" />
+          <option name="PATTERN" value="cn.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.array.Test5" />
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lambda.Test6" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.array.*" />
+          <option name="PATTERN" value="cn.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.StudentController" />
-        <item itemvalue="应用程序.Test5" />
-        <item itemvalue="应用程序.Test4" />
-        <item itemvalue="应用程序.Test3" />
-        <item itemvalue="应用程序.Test2" />
+        <item itemvalue="应用程序.Test07" />
+        <item itemvalue="应用程序.Test6" />
+        <item itemvalue="应用程序.Test05CalculatorDemo" />
+        <item itemvalue="应用程序.Test04RandomNumHandlerDemo" />
+        <item itemvalue="应用程序.Test03StringHandlerDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +139,7 @@
       <updated>1673505218319</updated>
       <workItem from="1673505221774" duration="4182000" />
       <workItem from="1673509463815" duration="1657000" />
-      <workItem from="1673511149243" duration="5126000" />
+      <workItem from="1673511149243" duration="11940000" />
     </task>
     <servers />
   </component>
