@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b74f20c9-b621-4c38-815e-27085cb405f5" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/genericity/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/genericity/GenericityClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/genericity/GenericityInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/genericity/GenericityMethod1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/genericity/GenericityMethod2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/genericity/GenericitySummarize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/genericity/MyGenericityClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/set/HashSetDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/set/HashSetDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/set/HashSetTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/set/MySet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/set/MyTreeSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/set/MyTreeSet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/set/MyTreeSet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/set/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,14 +53,17 @@
       <recent name="E:\Github\Java-2023\day01\src\cn\edu\manager\dao" />
       <recent name="E:\Github\Java-2023\day01\src\cn\edu\manager\controller" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.set" />
+    </key>
   </component>
-  <component name="RunManager" selected="应用程序.GenericitySummarize">
-    <configuration name="GenericityInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.genericity.GenericityInterface" />
+  <component name="RunManager" selected="应用程序.TreeSetTest">
+    <configuration name="MyTreeSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.set.MyTreeSet1" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.genericity.*" />
+          <option name="PATTERN" value="cn.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericityMethod1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.genericity.GenericityMethod1" />
+    <configuration name="MyTreeSet2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.set.MyTreeSet2" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.genericity.*" />
+          <option name="PATTERN" value="cn.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericityMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.genericity.GenericityMethod2" />
+    <configuration name="MyTreeSet3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.set.MyTreeSet3" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.genericity.*" />
+          <option name="PATTERN" value="cn.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericitySummarize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.genericity.GenericitySummarize" />
+    <configuration name="MyTreeSet4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.set.MyTreeSet4" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.genericity.*" />
+          <option name="PATTERN" value="cn.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyGenericityClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.genericity.MyGenericityClass" />
+    <configuration name="TreeSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.set.TreeSetTest" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.genericity.*" />
+          <option name="PATTERN" value="cn.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.GenericitySummarize" />
-        <item itemvalue="应用程序.GenericityMethod2" />
-        <item itemvalue="应用程序.GenericityMethod1" />
-        <item itemvalue="应用程序.GenericityInterface" />
-        <item itemvalue="应用程序.MyGenericityClass" />
+        <item itemvalue="应用程序.TreeSetTest" />
+        <item itemvalue="应用程序.MyTreeSet4" />
+        <item itemvalue="应用程序.MyTreeSet3" />
+        <item itemvalue="应用程序.MyTreeSet2" />
+        <item itemvalue="应用程序.MyTreeSet1" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +143,7 @@
       <updated>1673505218319</updated>
       <workItem from="1673505221774" duration="4182000" />
       <workItem from="1673509463815" duration="1657000" />
-      <workItem from="1673511149243" duration="21263000" />
+      <workItem from="1673511149243" duration="23091000" />
     </task>
     <servers />
   </component>
