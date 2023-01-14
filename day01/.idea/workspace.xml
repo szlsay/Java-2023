@@ -35,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../代码/代码" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../代码/mybatis-demo/mybatis-demo" />
     <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -140,7 +140,8 @@
       <updated>1673505218319</updated>
       <workItem from="1673505221774" duration="4182000" />
       <workItem from="1673509463815" duration="1657000" />
-      <workItem from="1673511149243" duration="31158000" />
+      <workItem from="1673511149243" duration="33821000" />
+      <workItem from="1673678334071" duration="255000" />
     </task>
     <servers />
   </component>
