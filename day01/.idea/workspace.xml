@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b74f20c9-b621-4c38-815e-27085cb405f5" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/parameter/MyVariableParameter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/parameter/MyVariableParameter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/parameter/MyVariableParameter3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/parameter/MyVariableParameter4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +54,13 @@
       <recent name="cn.set" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.MyVariableParameter1">
-    <configuration name="MyMap5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.map.MyMap5" />
+  <component name="RunManager" selected="应用程序.MyStream9">
+    <configuration name="MyStream5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.stream.MyStream5" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.map.*" />
+          <option name="PATTERN" value="cn.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyVariableParameter1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.parameter.MyVariableParameter1" />
+    <configuration name="MyStream6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.stream.MyStream6" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.parameter.*" />
+          <option name="PATTERN" value="cn.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyVariableParameter2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.parameter.MyVariableParameter2" />
+    <configuration name="MyStream7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.stream.MyStream7" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.parameter.*" />
+          <option name="PATTERN" value="cn.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.map.TreeMap1" />
+    <configuration name="MyStream8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.stream.MyStream8" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.map.*" />
+          <option name="PATTERN" value="cn.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.map.TreeMap2" />
+    <configuration name="MyStream9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.stream.MyStream9" />
       <module name="day01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.map.*" />
+          <option name="PATTERN" value="cn.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.MyVariableParameter1" />
-        <item itemvalue="应用程序.MyVariableParameter2" />
-        <item itemvalue="应用程序.TreeMap2" />
-        <item itemvalue="应用程序.TreeMap1" />
-        <item itemvalue="应用程序.MyMap5" />
+        <item itemvalue="应用程序.MyStream9" />
+        <item itemvalue="应用程序.MyStream8" />
+        <item itemvalue="应用程序.MyStream7" />
+        <item itemvalue="应用程序.MyStream6" />
+        <item itemvalue="应用程序.MyStream5" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +140,7 @@
       <updated>1673505218319</updated>
       <workItem from="1673505221774" duration="4182000" />
       <workItem from="1673509463815" duration="1657000" />
-      <workItem from="1673511149243" duration="29630000" />
+      <workItem from="1673511149243" duration="31158000" />
     </task>
     <servers />
   </component>
